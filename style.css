@@ -88,6 +88,14 @@ a {
   color: #e81c4f;
 }
 
+.scaled{  
+  -ms-transform: scale(0.5);
+  -webkit-transform: scale(0.5);
+  -o-transform: scale(0.5);
+  -moz-transform: scale(0.5);
+  transform: scale(0.5);
+}
+
 /* 07 Secondary colors */
 
 body {
